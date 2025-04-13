@@ -1,5 +1,5 @@
 # Input query
-query = "What is the role of mitochondria in a cell?"
+query = "Who won the 2022 world cup?"
 
 # Tokenize
 inputs = tokenizer(query, return_tensors="pt")
